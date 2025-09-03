@@ -1,0 +1,47 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #eef8f2;
+  padding: 30px;
+  color: #333;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background: white;
+  border-radius: 10px;
+  padding: 20px 30px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.1);
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  margin: 20px 0;
+  font-size: 1em;
+}
+
+.card {
+  background-color: #f8fff9;
+  padding: 20px;
+  border-radius: 8px;
+  border-left: 5px solid #30a46c;
+  margin-top: 10px;
+}
+
+.card ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+.hero-img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 10px auto 20px;
+  border-radius: 8px;
+}

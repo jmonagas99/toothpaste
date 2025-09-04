@@ -45,11 +45,3 @@ select {
   margin: 10px auto 20px;
   border-radius: 8px;
 }
-
-.toothbrush-img {
-  display: block;          /* allows margin auto to work */
-  margin: 20px auto;       /* centers horizontally + adds spacing */
-  max-width: 100px;        /* responsive size (won’t overflow) */
-  width: 100%;             /* scales down on smaller screens */
-}
-

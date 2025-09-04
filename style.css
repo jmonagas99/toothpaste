@@ -45,3 +45,9 @@ select {
   margin: 10px auto 20px;
   border-radius: 8px;
 }
+
+.hero {
+  background-image: url("images/toothbrushes.png");
+  background-size: cover;
+  background-position: center;
+}
